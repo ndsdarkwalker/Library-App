@@ -1,0 +1,5 @@
+<odoo>
+    <record id ="library.library_group_user" model="res.group">
+        <field name="name">Librarian</field>
+    </record>
+</odoo>
